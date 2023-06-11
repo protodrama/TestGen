@@ -144,7 +144,7 @@ namespace TestGen
                 {
                     AnsWrong++;
                     LabelWrong.Text = AnsWrong.ToString();
-                    MistakesList.Items.Add(WordsFromTest.Keys.ElementAt(WordPosition));
+                    MistakesList.Items.Add(WordsFromTest.Keys.ElementAt(WordPosition) + "-" + WordsFromTest.Values.ElementAt(WordPosition));
                     WrongAnswers.Add(WordsFromTest.Keys.ElementAt(WordPosition), WordsFromTest.Values.ElementAt(WordPosition));
                 }
 
