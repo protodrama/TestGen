@@ -1,0 +1,17 @@
+C:\Users\JF\source\repos\TestGen\TestGen\bin\Debug\net6.0-windows\TestGen.exe
+C:\Users\JF\source\repos\TestGen\TestGen\bin\Debug\net6.0-windows\TestGen.deps.json
+C:\Users\JF\source\repos\TestGen\TestGen\bin\Debug\net6.0-windows\TestGen.runtimeconfig.json
+C:\Users\JF\source\repos\TestGen\TestGen\bin\Debug\net6.0-windows\TestGen.dll
+C:\Users\JF\source\repos\TestGen\TestGen\bin\Debug\net6.0-windows\TestGen.pdb
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.csproj.AssemblyReference.cache
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.Form1.resources
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.csproj.GenerateResource.cache
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.AssemblyInfoInputs.cache
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.AssemblyInfo.cs
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.csproj.CoreCompileInputs.cache
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.dll
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\refint\TestGen.dll
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.pdb
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\TestGen.genruntimeconfig.cache
+C:\Users\JF\source\repos\TestGen\TestGen\obj\Debug\net6.0-windows\ref\TestGen.dll
