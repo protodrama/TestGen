@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestGen"
   ],
-  "SelectedNode": "\\C:\\Users\\JF\\Source\\Repos\\TestGen",
+  "SelectedNode": "\\TestGen\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

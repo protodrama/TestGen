@@ -63,6 +63,7 @@ namespace TestGen
             TestFileList.Enabled = false;
             CheckBtn.Enabled = true;
             btnReset.Enabled = true;
+            BtnRepeatMistakes.Enabled = false;
             txtAnswer.Enabled = true;
         }
 
@@ -109,6 +110,7 @@ namespace TestGen
             TestFileList.Enabled = true;
             CheckBtn.Enabled = false;
             btnReset.Enabled = false;
+            BtnRepeatMistakes.Enabled = false;
             txtAnswer.Enabled = false;
             AnsRight = 0;
             AnsWrong = 0;
